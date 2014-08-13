@@ -1,1 +1,1 @@
-﻿Install-ChocolateyPackage 'typescript.vs' 'msi' '/quiet' 'http://download.microsoft.com/download/2/F/F/2FFA1FBA-97CA-4FFB-8ED7-A4AE06398948/TypeScriptSetup.0.8.3.1.msi' -validExitCodes @(0)
+﻿Install-ChocolateyPackage 'typescript.vs' 'exe' '/quiet' 'http://visualstudiogallery.msdn.microsoft.com/ac357f1e-9847-46ac-a4cf-520325beaec1/file/132578/1/TypeScript%20for%20Microsoft%20Visual%20Studio%202012%201.0.1.exe' -validExitCodes @(0)
